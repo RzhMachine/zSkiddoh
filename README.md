@@ -1,6 +1,6 @@
-<h3>👋 Hi, I'm Nemesis! 👋</h3>
+<h2>👋 Hi, I'm Nemesis! 👋</h2>
 
-<h3>🌐 Knowledge: Hacking - Programming - Networking - Web Developing - Linux - Cryptography 🌐</h3>
+<h2>🌐 Knowledge: Hacking - Programming - Networking - Web Developing - Linux - Cryptography 🌐</h2>
 
 <!---
 Nemesis004/Nemesis004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
