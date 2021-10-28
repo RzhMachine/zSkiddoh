@@ -1,4 +1,3 @@
-<h3 align="center">
 <h2>👋 Hi, I'm Nemesis! 👋</h2>
   
 <h2>🌐 Knowledge: Hacking - Programming - Networking - Web Developing - Linux - Cryptography 🌐</h2>
