@@ -1,6 +1,6 @@
 <h2>👋 Hi, I'm zSkiddoh! 👋</h2>
 <br>
-<h2>🌐 Knowledge: Hacking - Programming - Networking - Web Developing - Linux - Cryptography 🌐</h2>
+<h2>🌐 Knowledge: Programming - Web Development - Linux 🌐</h2>
 <br>
 <br>
 <h2>🔥 Lenguajes 🔥</h2>
