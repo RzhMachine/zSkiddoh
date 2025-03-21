@@ -1,4 +1,4 @@
-<h2>👋 Hi, I'm zSkiddoh! 👋</h2>
+<h2>👋 Hi 👋</h2>
 <br>
 <h2>🌐 Knowledge: Programming - Web Development - Linux 🌐</h2>
 <br>
