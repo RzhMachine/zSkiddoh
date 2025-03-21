@@ -14,4 +14,4 @@
 <br>
 <br>
 
-![zSkiddoh GitHub stats](https://github-readme-stats.vercel.app/api?username=zSkiddoh&show_icons=true&theme=dark)
+![zSkiddoh GitHub stats](https://github-readme-stats.vercel.app/api?username=RzhMachine&show_icons=true&theme=dark)
